@@ -1,0 +1,16 @@
+{
+  "name": "herokuExpress",
+  "version": "0.0.1",
+  "description": "a simple test",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "saitodisse",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
